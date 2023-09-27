@@ -1,3 +1,3 @@
-Set WinScriptHost = CreateObject("WScript.Shell")
-WinScriptHost.Run Chr(34) & "E:\vvlogseq\vvlogseqAutoSave.sh" & Chr(34), 0
-Set WinScriptHost = Nothing
+DIM objShell
+set objShell=wscript.createObject("wscript.shell")
+iReturn=objShell.Run("cmd.exe /C E:\vvlogseq\vvlogseqAutoSave.sh", 0, TRUE)
