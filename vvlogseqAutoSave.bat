@@ -1,4 +1,3 @@
-start "C:\Windows\System32\cmd.exe"
 E:
 cd E:\vvlogseq
 git init
