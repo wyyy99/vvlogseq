@@ -1,5 +1,4 @@
 @echo off 
-@title bat execute git auto commit #运行时命令行窗口的 title
 
 E:
 cd E:\vvlogseq
