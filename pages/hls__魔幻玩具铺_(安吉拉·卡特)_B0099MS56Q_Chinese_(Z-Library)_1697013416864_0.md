@@ -1,2 +1,23 @@
 file:: [魔幻玩具铺_(安吉拉·卡特)_B0099MS56Q_Chinese_(Z-Library)_1697013416864_0.pdf](../assets/魔幻玩具铺_(安吉拉·卡特)_B0099MS56Q_Chinese_(Z-Library)_1697013416864_0.pdf)
 file-path:: ../assets/魔幻玩具铺_(安吉拉·卡特)_B0099MS56Q_Chinese_(Z-Library)_1697013416864_0.pdf
+
+- “她能像⽼奶奶那样做很传统的饭菜，”费因说，这是他认为最有弥补作⽤的⻓处，“做很好吃的甜糕！”
+  ls-type:: annotation
+  hl-page:: 45
+  hl-color:: purple
+  id:: 6528aa53-91b5-4456-803f-9959087713fe
+- 最后，是弗朗⾟从他拉琴挣来的钱⾥给了梅拉尼⼀英镑。他把钱塞进她的裙⼦⼝袋，她都不知道该怎么感激他
+  ls-type:: annotation
+  hl-page:: 148
+  hl-color:: yellow
+  id:: 652953dc-0ab4-4f77-a351-e54b16e6d421
+- 可他不让我⾃⼰有钱，要是我有，我多少都能给你
+  ls-type:: annotation
+  hl-page:: 148
+  hl-color:: yellow
+  id:: 652953e5-e25f-49ea-af41-8b738920bce4
+- 这是他的信条。在钱上，他不信任我。
+  ls-type:: annotation
+  hl-page:: 148
+  hl-color:: yellow
+  id:: 652953f2-4723-41f6-ab2a-be9477772f60
